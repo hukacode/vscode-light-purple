@@ -1,0 +1,35 @@
+{
+  "name": "light-purple",
+  "displayName": "Light purple",
+  "description": "Light purple",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "publisher": "Huka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hukacode/vscode-light-purple.git"
+  },
+  "homepage": "https://github.com/hukacode/vscode-light-purple/blob/main/README.md",
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "light theme"
+  ],
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Purple",
+        "uiTheme": "vs",
+        "path": "./themes/light-purple-color-theme.json"
+      }
+    ]
+  }
+}
