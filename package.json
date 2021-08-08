@@ -2,7 +2,7 @@
   "name": "light-purple",
   "displayName": "Light purple",
   "description": "Light purple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.58.0"
   },
